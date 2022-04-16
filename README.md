@@ -1,5 +1,6 @@
 ## Inbox Telegram Plugin
 This is simple plugin that get new messages from Telegram bot and paste its to daily journal.
+It is basically a Fork from https://github.com/shady2k/logseq-inbox-telegram-plugin but i am supporting Images and a bugfix.
 
 ## Configuration
 - In order to start you need to create Telegram bot: https://core.telegram.org/bots#3-how-do-i-create-a-bot
